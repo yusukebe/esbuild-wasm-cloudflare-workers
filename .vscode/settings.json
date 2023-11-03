@@ -1,0 +1,7 @@
+{
+  "deno.enablePaths": [
+    "./src/script.tsx"
+  ],
+  "deno.enable": true,
+  "editor.inlayHints.enabled": "off"
+}
